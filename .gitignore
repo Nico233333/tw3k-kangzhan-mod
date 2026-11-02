@@ -1,0 +1,16 @@
+# 打包输出
+build/
+*.pack
+
+# 原版数据，只在本地对照
+reference/
+
+# Blender 自动备份
+*.blend1
+*.blend2
+
+# 系统和编辑器临时文件
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
